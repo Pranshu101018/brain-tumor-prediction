@@ -1,0 +1,4 @@
+numpy: It’s a Python library that is employed for scientific computing. It contains among other things – a strong array object, mathematical and statistical tools for integrating with other language’s code i.e. C/C++ and Fortran code.
+pandas: It’s a Python package providing fast, flexible, and expressive data structures designed to form working with “relational” or “labeled” data both easy and intuitive.
+matplotlib: Matplotlib may be a plotting library for the Python programming language which produces 2D plots to render visualization and helps in exploring the info sets. matplotlib.pyplot could be a collection of command style functions that make matplotlib work like MATLAB.
+seaborn:. Seaborn is an open-source Python library built on top of matplotlib. It’s used for data visualization and exploratory data analysis. Seaborn works easily with dataframes and also the Pandas library.
